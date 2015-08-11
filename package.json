@@ -1,0 +1,19 @@
+{
+  "name": "switchHosts",
+  "version": "1.0.0",
+  "description": "hosts visual",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liuxiaoyue/switchHosts.git"
+  },
+  "author": "weixiao909@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liuxiaoyue/switchHosts/issues"
+  },
+  "homepage": "https://github.com/liuxiaoyue/switchHosts"
+}
