@@ -1,16 +1,30 @@
 {
   "name": "switch-hosts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "hosts visual",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "main": "./bin/switchhosts",
+  "bin": {
+    "switch-hosts": "./bin/switchhosts"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/liuxiaoyue/switchHosts.git"
   },
   "author": "weixiao909@gmail.com",
+  "dependencies": {
+    "async": "*",
+    "commander": "*",
+    "connect-flash": ">= 0.1.1",
+    "ejs": "*",
+    "express": "3.4.8",
+    "forever": "*",
+    "gaze": "0.5.1",
+    "hosts-group": "*",
+    "log4js": "*",
+    "request": "*",
+    "sheller": "*",
+    "socket.io": "0.8.7"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/liuxiaoyue/switchHosts/issues"
