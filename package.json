@@ -1,5 +1,5 @@
 {
-  "name": "switchHosts",
+  "name": "switch-hosts",
   "version": "1.0.0",
   "description": "hosts visual",
   "main": "index.js",
