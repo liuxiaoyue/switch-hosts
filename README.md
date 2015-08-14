@@ -37,7 +37,7 @@ $ switch-hosts -h
 ```bash
 $ sudo switch-hosts start
 ```
-启动完成之后可访问 `http://127.0.0.1:3003` 访问服务配置页面。
+启动完成之后可访问 `http://local.sw.hosts:3003/` 访问服务配置页面。
 
 ### 注意 
 
