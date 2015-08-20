@@ -1,6 +1,6 @@
 {
   "name": "switch-hosts",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "hosts visual",
   "main": "./bin/switchhosts",
   "bin": {
@@ -12,18 +12,13 @@
   },
   "author": "weixiao909@gmail.com",
   "dependencies": {
-    "async": "*",
     "commander": "*",
     "connect-flash": ">= 0.1.1",
     "ejs": "*",
     "express": "3.4.8",
     "forever": "*",
-    "gaze": "0.5.1",
     "hosts-group": "*",
-    "log4js": "*",
-    "request": "*",
-    "sheller": "*",
-    "socket.io": "0.8.7"
+    "log4js": "*"
   },
   "license": "MIT",
   "bugs": {
