@@ -1,6 +1,9 @@
 # switchHosts
 hosts visual configuration
 
+### 注意
+若不想自己的host被格式化，用此工具之前赶紧备份下hosts吧！
+
 ### 下载安装
 
 npm install －g switch-hosts
