@@ -1,6 +1,6 @@
 {
   "name": "switch-hosts",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "hosts visual",
   "main": "./bin/switchhosts",
   "bin": {
