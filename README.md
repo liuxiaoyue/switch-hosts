@@ -6,7 +6,7 @@ hosts visual configuration
 
 ### 下载安装
 
-npm install －g switch-hosts
+npm install -g switch-hosts
 
 ---
 
