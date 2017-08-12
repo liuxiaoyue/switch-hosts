@@ -18,7 +18,7 @@
     "express": "3.4.8",
     "forever": "*",
     "hosts-group": "*",
-    "log4js": "*"
+    "log4js": "1.1.0"
   },
   "license": "MIT",
   "bugs": {
